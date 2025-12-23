@@ -75,6 +75,13 @@ cd TalkCollect
    ```
    The frontend will start at `http://localhost:5173`.
 
+### Quick Start (After Setup)
+
+To run both backend and frontend with a single command:
+```bash
+./start.sh
+```
+
 ## Usage Flow
 
 1. **Admin**: Log in using Google at the root URL.
